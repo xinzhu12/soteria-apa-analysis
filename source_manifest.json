@@ -1,0 +1,12 @@
+{
+  "original_script_sha256": {
+    "build_all.py": "50e27787f60e8a8cbb799ae8987c1f2607e900255f5986f94558b5aed67d56bc",
+    "run_all_analysis.py": "b5e951b0bd0b983802fad6e3ce0a7e21d02946f7af310c12298db89940e99d1d"
+  },
+  "changes": [
+    "Use environment-configurable input/output paths",
+    "Use an explicit QC input CSV by default",
+    "Write analysis results under OUT_DIR/analysis"
+  ],
+  "poster_version_verified": false
+}
